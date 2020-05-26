@@ -63,7 +63,7 @@ You'll want to fork this repository and deploy your own image generator.
 
 Alternatively, you can do a one-click to deploy with the button below.
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=zeit/og-image)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=slorber/og-image-quotes)
 
 If you are using the Hobby plan, you will need to remove all configuration inside `now.json` besides
 `rewrites`. Your `now.json` should look like this:
